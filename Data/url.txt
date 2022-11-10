@@ -1,0 +1,14 @@
+1 CIFAR10 can be downloaded at https://www.cs.toronto.edu/~kriz/cifar.html
+2 ImageNet can be downloaded at https://www.image-net.org/download.php
+3 Udacity can be downloaded at https://github.com/udacity/self-driving-car/tree/master/datasets/CH2
+4 Fashion-MNIST can be downloaded at https://github.com/zalandoresearch/fashion-mnist
+5 Ants_Bees can be downloaded at https://download.pytorch.org/tutorial/hymenoptera_data.zip
+6 Cats_Dogs can be downloaded at https://www.kaggle.com/competitions/dogs-vs-cats/data
+7 IMDB can be downloaded at https://ai.stanford.edu/~amaas/data/sentiment
+8 Reuters can be downloaded at http://kdd.ics.uci.edu/databases/reuters21578/reuters21578.html
+9 VCTK Corpus can be downloaded at https://datashare.ed.ac.uk/handle/10283/3443
+10 RadioML 2016.10a can be downloaded at https://www.deepsig.ai/datasets
+11 Cora can be downloaded at https://linqs-data.soe.ucsc.edu/public/lbc/cora.tgz
+12 Adult can be downloaded at https://archive.ics.uci.edu/ml/datasets/adult
+13 COMPAS can be downloaded at https://github.com/propublica/compas-analysis
+14 Boston can be downloaded at http://lib.stat.cmu.edu/datasets/boston
