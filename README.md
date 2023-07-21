@@ -9,7 +9,7 @@ Besides, its robustness and generalizability are 1.41-2.00 times and 1.33-3.39 t
 
 ## Citing CertPri
 
-A technical description of AI Fairness 360 is available in this
+A technical description of CertPri is available in this
 [paper](http://arxiv.org/abs/2307.09375). Below is the bibtex entry for this paper.
 
 ```
